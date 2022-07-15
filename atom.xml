@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://soryecker.github.io</id>
+    <title>k1n9小屋</title>
+    <updated>2022-07-15T09:35:02.470Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://soryecker.github.io"/>
+    <link rel="self" href="https://soryecker.github.io/atom.xml"/>
+    <subtitle>风雨中找到陋室</subtitle>
+    <logo>https://soryecker.github.io/images/avatar.png</logo>
+    <icon>https://soryecker.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, k1n9小屋</rights>
+</feed>
